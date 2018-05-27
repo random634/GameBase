@@ -1,2 +1,2 @@
 # UnityBased
-Try to setup a unity based code environment for game.
+Try to setup a base code environment for game.
